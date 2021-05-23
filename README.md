@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunpishey
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning Supply Chain Mgmt and Google Data Analyst Certification on Coursera.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning data cleaing, data exploration, data visualization using MySql/Bigquery, R-programming and Tableau respectively.
 - 💞️ I’m looking to collaborate on beginner level data analysis/community services.
 - 📫 How to reach me - arjun.pishey@gmail.com
 
